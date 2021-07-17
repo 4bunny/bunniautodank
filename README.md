@@ -18,4 +18,4 @@ token = ()
 #---------------#
 }
 ```
-> I tryed running this project on replit and it worked ig 
+> I tried running this project on replit and it worked ig 

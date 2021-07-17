@@ -14,7 +14,7 @@ prefix = "$"
 #use the .env feature to hide your token
 
 keep_alive()
-token = ()
+token = os.getenv("TOKEN")
 #---------------#
 
 bot = commands.Bot(command_prefix=prefix,

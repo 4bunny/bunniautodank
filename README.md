@@ -5,7 +5,7 @@
  ## 🍄 Configuration
 > Go to `main.py` and ull see 
 
-```json
+```
 {
  #-----SETUP-----#
 
